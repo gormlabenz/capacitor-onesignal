@@ -8,3 +8,6 @@ node_modules
 .idea/
 *.log
 test/__snapshots__/**
+certs/
+ios/
+.env
